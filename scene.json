@@ -1,0 +1,151 @@
+{
+    "Scrolly": {
+        "components": [
+            {
+                "component": "Description",
+                "props": {
+                    "id": 1,
+                    "minRange": 0.9688888888888889,
+                    "maxRange": 3.6533333333333333,
+                    "description": "In this scrollable interactive, you will explore how restriction enzymes work. You’ll also learn why restriction enzymes (also called endonucleases) can be used as tools to analyze DNA and create recombinant plasmids from bacterial plasmids."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 2,
+                    "minRange": 4.551111111111111,
+                    "maxRange": 6.088888888888889,
+                    "description": "Restriction enzymes are bacterial proteins that act as the bacteria’s defense system against harmful foreign DNA."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 3,
+                    "minRange": 6.9688888888888885,
+                    "maxRange": 9.297777777777778,
+                    "description": "Restriction enzymes cut foreign DNA into many fragments, rendering it less harmful to the bacteria. A virus might inject its foreign DNA into a bacteria cell so that the virus could spread."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 4,
+                    "minRange": 11.12,
+                    "maxRange": 14.542222222222223,
+                    "description": "Restriction enzymes have specific active sites that recognize a particular restriction site in a DNA sequence. Here, the DNA sequence recognized by the enzyme is indicated in orange."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 5,
+                    "minRange": 15.973333333333334,
+                    "maxRange": 16.9333333333333,
+                    "description": "To prevent restriction enzymes from cutting their own DNA, bacteria use a methylase enzyme to add a methyl group (CH₃) to its own DNA to protect it."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 6,
+                    "minRange": 21.288888888888888,
+                    "maxRange": 25.804444444444446,
+                    "description": "Restriction enzymes have unique active sites that recognize and cut a specific DNA sequence. For example, the EcoRI enzyme recognises the GAATTC base pair sequence, the Alul enzyme recognizes the AGCT base pair sequence, and the HaeIII enzyme recognizes the GGCC base pair sequence."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 7,
+                    "minRange": 26.968888888888888,
+                    "maxRange": 32.53333333333333,
+                    "description": "Restriction enzymes work best in specific conditions. At very high temperatures, enzymes denature and lose their shape and functionality. Based on the graph, the optimum temperature for this restriction enzyme is around 37°C."
+                }
+            },
+             {
+                "component": "Description",
+                "props": {
+                    "id": 30,
+                    "minRange": 33.13777777777778,
+                    "maxRange": 38.46222222222222,
+                    "description": "There is also an optimum pH range for enzyme function which is around 7. When the pH changes away from the optimum, restriction enzymes undergo shape changes that limit their functionality and are unable to cut restriction sites as usual."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 8,
+                    "minRange": 39.208888888888886,
+                    "maxRange": 52.736434470209495,
+                    "description": "The primary function of restriction enzymes is to cut DNA. DNA is a molecule with a double helix shape held together by covalent phosphodiester bonds along the exterior backbone and hydrogen bonds between the nitrogen bases in the center."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 9,
+                    "minRange": 52.91555555555556,
+                    "maxRange": 55.23555555555556,
+                    "description": "Each restriction enzyme recognizes a different sequence of nucleotide bases, called a restriction site. Restriction sites are short 6-8 base pair sequences that are often palindromic. For example, EcoRI looks for the restriction site GAATTC. Because this is a palindrome the top strand reads 5' to 3' GAATTC and the bottom strand reads 5' to 3' GAATTC."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 10,
+                    "minRange": 55.831111111111106,
+                    "maxRange": 61.964444444444446,
+                    "description": "The restriction enzyme will search the DNA, feeling its way down the strand until it recognizes the sequence which fits into its active site. Once it finds the restriction site, it cleaves the DNA."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 32,
+                    "minRange": 62.1511111111111148,
+                    "maxRange": 65.44,
+                    "description": "A restriction enzyme can cut the DNA in different ways. It can create a blunt cut, which cuts the DNA straight across, or a sticky end cut, which results in fragments with single stranded sticky ends."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 11,
+                    "minRange": 66.61333333333333,
+                    "maxRange": 77.69777777777777,
+                    "description": "Scientists have purified restriction enzymes from different bacteria and have named them after the bacteria they come from. For example, the EcoRI enzyme came from <i>Escherichia coli</i>, BamHI came from <i>Bacillus amyloliquefaciens</i>, and HindIII came from <i>Haemophilus influenzae</i>."
+                }
+            },
+
+            {
+                "component": "Description",
+                "props": {
+                    "id": 13,
+                    "minRange": 78.17777777777778,
+                    "maxRange": 87.77777777777777,
+                    "description": "Now that we have these molecular scissors that cut at specific sequences in predictable ways, they can be used to help us manipulate DNA sequences. For example, DNA from other organisms can be added to a plasmid and expressed in bacteria when the same enzymes cut the foreign DNA and plasmid."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 14,
+                    "minRange": 89.97333333333334,
+                    "maxRange": 93.44,
+                    "description": "DNA sequences that have been cut by the same restriction enzyme are complementary and can be attached to create new DNA molecules."
+                }
+            },
+            {
+                "component": "Description",
+                "props": {
+                    "id": 15,
+                    "minRange": 94.37333333333333,
+                    "maxRange": 99.49333333333334,
+                    "description": "Restriction enzymes can also be used to identify differences between DNA sequences. For example, restriction enzymes can detect a single nucleotide polymorphism (SNP) by revealing if a change has occurred in a given restriction site. A single letter difference can determine whether the enzyme will cut the DNA or not."
+                }
+            }
+        ]
+    }
+}
